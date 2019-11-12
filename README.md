@@ -4,4 +4,4 @@ RetroSn0w is an all in one tool for iPhones form the 3GS-X It has the ability to
 # iPhone 4 Tools
 To install SwitchBoard Dm me for iPSW @80036ndyt
 
-To install iOS 6.0/6.1.3 download the iPSW and make sure its in your downloads folder
+To install iOS 6.0/6.1.3 download the iPSW and make sure its in your downloads folder, then you should be able to make the iPSW.
