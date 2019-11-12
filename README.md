@@ -8,3 +8,5 @@ To install iOS 6.0/6.1.3 download the iPSW and make sure its in your downloads f
 
 # iPhone3,3 iOS 7.1.3
 Download the iOS 7.1.2 iPSW for the iPhone3,3 and make sure its in your downloads folder then you make the 7.1.3 iPSW and install it.
+
+# CheckRa1n Jailbreak
